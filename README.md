@@ -1,2 +1,2 @@
 # Learn-Javascript-by-Code
-Source and Syllabus by youtube Code with Harry
+Source and Syllabus by youtube self lerning
